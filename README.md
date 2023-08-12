@@ -1,2 +1,2 @@
 # WebDisBot
-Discord bot for interaction with web-servers in Ethernet
+Discord bot for interaction with web-servers in the Internet
