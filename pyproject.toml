@@ -1,0 +1,14 @@
+[project]
+name = "WebDisBot"
+version = "1.0.0"
+authors = [
+  { name="Nukchix"},
+]
+description = "Discord bot for interaction with web-servers in the Internet"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
